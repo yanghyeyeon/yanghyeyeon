@@ -2,7 +2,7 @@
   
 ![mypofiles](https://github-readme-stats.vercel.app/api?username=yanghyeyeon&theme=blue-green)
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seongeun223&layout=compact)
 ![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 
