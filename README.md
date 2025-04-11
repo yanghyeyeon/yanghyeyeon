@@ -12,9 +12,6 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yanghyeyeon&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yanghyeyeon&layout=compact&theme=tokyonight)
 
-<!-- 필요시 streak도 추가 -->
-![GitHub Streak](https://streak-stats.demolab.com?user=yanghyeyeon&theme=tokyonight)
-
 ---
 
 ## 🚀 Skills & Tools
