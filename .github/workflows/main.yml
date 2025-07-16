@@ -1,0 +1,24 @@
+name: Waka Readme Stats
+
+on:
+  schedule:
+    - cron: "0 18 * * *" 
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: update-waka-readme
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Update README with Waka Stats
+        uses: anmol098/waka-readme-stats@master
+        with:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          SHOW_TITLE: "True"
+          SHOW_OS: "True"
+          SHOW_EDITORS: "True"
+          SHOW_LANGUAGE: "True"
+          SHOW_TIMEZONE: "True"
+          SHOW_LOC_CHART: "False"
