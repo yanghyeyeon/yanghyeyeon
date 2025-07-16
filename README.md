@@ -44,6 +44,13 @@
 
 ---
 
+## 🎇 WakaTime 통계
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
 ## 🎮🎵 Things I Like
 
 ![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white)
