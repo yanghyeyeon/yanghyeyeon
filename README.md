@@ -46,7 +46,7 @@
 
 ## 📊 GitHub 활동 통계
 
-<img src="metrics.svg" alt="Metrics" width="100%">
+<img src="metrics.svg" alt="Metrics" width="50%">
 
 ---
 
