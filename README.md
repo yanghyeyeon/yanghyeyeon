@@ -12,6 +12,8 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yanghyeyeon&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yanghyeyeon&layout=compact&theme=tokyonight)
 
+<img src="metrics.svg" alt="Metrics" width="50%">
+
 ---
 
 ## 🚀 Skills & Tools
@@ -41,12 +43,6 @@
 ![skills](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![skills](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 ![skills](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-
----
-
-## 📊 GitHub 활동 통계
-
-<img src="metrics.svg" alt="Metrics" width="50%">
 
 ---
 
